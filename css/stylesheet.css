@@ -1,0 +1,111 @@
+p {
+	font-family: Sans-serif;
+	font-size: 1.2em;
+}
+
+h1 {
+	font-size: 3em;
+	font-family: "PT Sans"
+}
+
+.btn-custom{
+	border-color: red;
+	color:red;
+}
+.jumbotron {
+	text-align: center;
+	background-color: #FFD73E;
+	height: 100vh;
+	margin-bottom: 0px;
+}
+
+.jumbotron h1 {
+	text-shadow: 2px 2px 4px #597058;
+	color: #0D8622;
+	font-size: 5em;
+	font-family: "Chelsea Market", "Adobe Blank"; 
+}
+
+.jumbotron h2 {
+	color: #0D8622;
+	font-size: 3em;
+	font-family: "Assistant", "Adobe Blank"; 
+}
+.jumbotron .btn {
+	margin-top:1em;
+}
+
+.vertical {
+    vertical-align: middle;
+    padding-top: 20vh;
+}
+
+
+
+/*Section Characteristics*/
+#about {
+	background-color: #57C981;
+	padding-top: 5vh;
+	height: 100vh;
+}
+
+#freelance {
+	padding-top: 5vh;
+	background-color: #BE9DDC;
+	height: 100vh;
+
+}
+/*Navbar*/
+
+.navbar-custom {
+    background-color:#7333AB;
+    color:#ffffff;
+    border-radius:0;
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color:#fff;
+}
+
+.navbar-custom .navbar-nav > .active > a {
+    color: #ffffff;
+    background-color:transparent;
+}
+
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom .navbar-nav > li > a:focus,
+.navbar-custom .navbar-nav > .active > a:hover,
+.navbar-custom .navbar-nav > .active > a:focus,
+.navbar-custom .navbar-nav > .open >a {
+    text-decoration: none;
+    background-color: #905ABE;
+}
+
+.navbar-custom .navbar-brand {
+    color:#eeeeee;
+}
+.navbar-custom .navbar-toggle {
+    background-color:#A1298A;
+}
+.navbar-custom .icon-bar {
+    background-color:#905ABE;
+}
+/*end NAVBAR*/
+
+.color-primary-0 { color: #2DB961 }	/* Main Primary color */
+.color-primary-1 { color: #008231 }
+.color-primary-2 { color: #02AB41 }
+.color-primary-3 { color: #57C981 }
+.color-primary-4 { color: #9CE1B6 }
+
+.color-secondary-1-0 { color: #FFD73E }	/* Main Secondary color (1) */
+.color-secondary-1-1 { color: #B48F00 }
+.color-secondary-1-2 { color: #ECBD03 }
+.color-secondary-1-3 { color: #FFE26F }
+.color-secondary-1-4 { color: #FFEFB1 }
+
+.color-secondary-2-0 { color: #7333AB }	/* Main Secondary color (2) */
+.color-secondary-2-1 { color: #440779 }
+.color-secondary-2-2 { color: #5B0D9F }
+.color-secondary-2-3 { color: #905ABE }
+.color-secondary-2-4 { color: #BE9DDC }
